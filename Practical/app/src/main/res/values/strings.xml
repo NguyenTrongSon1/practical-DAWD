@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical</string>
+    <string name="name">Name:</string>
+    <string name="quantity">Quantity:</string>
+    <string name="load">Load</string>
+    <string name="view">View</string>
+    <string name="add">Add</string>
+</resources>
